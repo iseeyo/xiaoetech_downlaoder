@@ -15,7 +15,7 @@
 
 
 ## 使用教程
-### 第一步：电脑网页打开小鹅通学员版官网（https://study.xiaoe-tech.com）
+### 第一步：电脑网页打开小鹅通学员版官网（ https://study.xiaoe-tech.com ）
 ![网页版小鹅通](https://github.com/PyJun/xiaoetech_downlaoder/assets/39453044/1be8ba63-ff44-4648-94b6-a737f6d008e5)
 ### 第二步：从小鹅通学员版网页复制对应的课程链接
 ![复制链接](https://github.com/PyJun/xiaoetech_downlaoder/assets/39453044/12813b8c-84b1-4c37-9017-b56d94d08ca3)
